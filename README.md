@@ -5,3 +5,4 @@ Different type of plots in Jupyter notebook. Matlibplot, pandas, numpy will be u
 * [Histogram](https://github.com/woo-chia-wei/python-visualization-notes/blob/master/projects/histogram.ipynb) : Distribution of height of FIFA players
 * [Time series](https://github.com/woo-chia-wei/python-visualization-notes/blob/master/projects/time_series.ipynb) : Population vs years on past top 5 countries with total populations
 * [Pseudocolor](https://github.com/woo-chia-wei/python-visualization-notes/blob/master/projects/pseudocolor.ipynb) : Unit circle mesh on different resolutions
+* [Image Processing](https://github.com/woo-chia-wei/python-visualization-notes/blob/master/projects/image_processing.ipynb) : Blur image, convert to grayscale, adjust contrast
